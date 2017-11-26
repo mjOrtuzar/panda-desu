@@ -1,0 +1,150 @@
+header{
+	background-color: #F78E69;
+	height: 140px;
+}
+ 
+.titlePag h1{
+	float: right;
+	margin-right: 70px;
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+}
+
+.titleSub p{
+	float: right;
+	margin-right: 70px;
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+}
+
+/* fin header */
+
+/*seccion 1*/
+.panda1{
+	padding: 0 !important;
+}
+.panda1 img{
+	width: 100%;
+	height: auto;
+	-webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+/*fin seccion1 */
+
+/*seccion 2*/
+
+.section-2{
+	background-color: #ABE188;
+	border-top: 1em solid #F78E69;
+	border-bottom: 1em solid #F78E69;
+}
+
+.abPanda{
+	margin-top: 20px;
+}
+
+.abPanda h2 {
+	text-align: center;	
+	background-color: #F78E69;
+	color: #fff;
+	width: 600px;
+	height: 50px;
+	margin: auto;
+	padding-top: 20px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.section-2 p{
+	margin:auto;
+	width: 500px;
+	height: 300px;
+	background-color: #F78E69;
+	color: #fff;
+	padding-top: 20px;
+	font-family: 'Raleway', sans-serif;
+}
+
+#fondo{
+	width: 600px;
+	height: 300px;
+	background-color: #F78E69;
+	margin: auto;
+	margin-top: -27px;
+	margin-bottom: 20px;
+}
+
+/*fin seccion2*/
+
+/*seccion 3 */
+.panda2{
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.panda2 img{
+	width: 100%;
+	height: auto;
+	-webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+/*fin seccion 3 */
+
+/* galeria */
+
+.section-4{
+	background-color: #ABE188;
+	border-top: 1em solid #F78E69;
+	border-bottom: 1em solid #F78E69;
+}
+
+.titleGal h2{
+	font-family: 'Raleway', sans-serif;
+    color: #fff;
+	width: 400px;
+	height: 50px;
+	margin: auto;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 24px;
+	margin-top: 40px;
+}
+
+.galery{
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.galery img{
+	border: 1em solid #fff;
+}
+
+/* fin galeria */
+
+/*seccion 5*/
+.panda3{
+	padding: 0 !important;
+}
+.panda3 img{
+	border: 0px;
+	width: 100%;
+	height: auto;
+	-webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+/*fin seccion 5*/
+
+/* footer */
+footer{
+	background-color: #F78E69;	
+}
+
+.detail p{
+	margin-top: 15px;
+	float: right;
+	margin-bottom: 15px;
+	font-size: 19px;
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+}
+/*fin footer*/
